@@ -4,4 +4,5 @@ public class DSProject
     {
 
     }
+    private static void print(Object obj) { System.out.println(obj); }
 }
